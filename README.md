@@ -1,2 +1,2 @@
-# Accent-Mono
+# Accent Mono
 A monospace typeface
