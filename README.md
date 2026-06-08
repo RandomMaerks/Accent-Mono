@@ -14,7 +14,7 @@ It'll eventually have its description when it's developed for long enough.
 | Thin | 100 | 0 |
 | ExtraLight | 200 | 0 |
 | Light | 300 | 0 |
-| Roman | 400 | 0 |
+| Regular | 400 | 0 |
 | Medium | 500 | 0 |
 | SemiBold | 600 | 0 |
 | Bold | 700 | 0 |
