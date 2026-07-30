@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis name="weight" maximum="900" default="100" minimum="100" tag="wght">
+  <axis maximum="900" minimum="100" tag="wght" name="weight" default="100">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
  </axes>
  <sources>
-  <source name="Black" familyname="Accent Mono" stylename="Black" filename="masters/AccentMono-Black.ufo">
+  <source stylename="Black" filename="masters/AccentMono-Black.ufo" name="Black" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension xvalue="900" name="weight"/>
    </location>
   </source>
-  <source name="Thin" familyname="Accent Mono" stylename="Thin" filename="masters/AccentMono-Thin.ufo">
+  <source stylename="Thin" filename="masters/AccentMono-Thin.ufo" name="Thin" familyname="Accent Mono">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance name="Thin" familyname="Accent Mono" stylename="Thin" filename="instances/AccentMono-Thin.ufo">
+  <instance stylename="Thin" filename="instances/AccentMono-Thin.ufo" name="Thin" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance name="ExtraLight" familyname="Accent Mono" stylename="ExtraLight" filename="instances/AccentMono-ExtraLight.ufo">
+  <instance stylename="ExtraLight" filename="instances/AccentMono-ExtraLight.ufo" name="ExtraLight" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="200"/>
+    <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance name="Light" familyname="Accent Mono" stylename="Light" filename="instances/AccentMono-Light.ufo">
+  <instance stylename="Light" filename="instances/AccentMono-Light.ufo" name="Light" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="300"/>
+    <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance name="Regular" familyname="Accent Mono" stylename="Regular" filename="instances/AccentMono-Regular.ufo">
+  <instance stylename="Regular" filename="instances/AccentMono-Regular.ufo" name="Regular" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance name="Medium" familyname="Accent Mono" stylename="Medium" filename="instances/AccentMono-Medium.ufo">
+  <instance stylename="Medium" filename="instances/AccentMono-Medium.ufo" name="Medium" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance name="SemiBold" familyname="Accent Mono" stylename="SemiBold" filename="instances/AccentMono-SemiBold.ufo">
+  <instance stylename="SemiBold" filename="instances/AccentMono-SemiBold.ufo" name="SemiBold" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="600"/>
+    <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance name="Bold" familyname="Accent Mono" stylename="Bold" filename="instances/AccentMono-Bold.ufo">
+  <instance stylename="Bold" filename="instances/AccentMono-Bold.ufo" name="Bold" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance name="ExtraBold" familyname="Accent Mono" stylename="ExtraBold" filename="instances/AccentMono-ExtraBold.ufo">
+  <instance stylename="ExtraBold" filename="instances/AccentMono-ExtraBold.ufo" name="ExtraBold" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance name="Black" familyname="Accent Mono" stylename="Black" filename="instances/AccentMono-Black.ufo">
+  <instance stylename="Black" filename="instances/AccentMono-Black.ufo" name="Black" familyname="Accent Mono">
    <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension xvalue="900" name="weight"/>
    </location>
   </instance>
  </instances>
