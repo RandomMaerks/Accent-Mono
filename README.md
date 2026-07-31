@@ -1,7 +1,6 @@
 # 🔶 Accent Mono
-A monospace typeface.
 
-It'll eventually have its description when it's developed for long enough.
+Accent Mono is a grotesk-like, general-purpose monospace typeface, designed to be particularly legible and useful for programming with its distinctive letterforms. Outside the development environment, its unique and stylistic design still holds up, allowing the typeface to be used in regular typesetting.
 
 ![Accent Mono](https://raw.githubusercontent.com/RandomMaerks/Accent-Mono/main/documentation/accent-a1.png)  
 ![Accent Mono](https://raw.githubusercontent.com/RandomMaerks/Accent-Mono/main/documentation/accent-a2.png)  
